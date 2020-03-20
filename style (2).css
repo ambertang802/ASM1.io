@@ -92,7 +92,7 @@ h2 {
 	height: 18px;
 	}
 .preamble, .explanation, .participation, .benefits, .requirements 
-{  padding-top: 45px; margin-top: 1px; float: left; }
+{  padding-top: 45px; float: left; }
 
 
 .preamble { background: transparent url(http://www.csszengarden.com/210/divider02.jpg) no-repeat; }
@@ -300,3 +300,4 @@ footer a:link, footer a:visited {
 	flex:0 0 50%;
 	max-width:66%
 }
+
